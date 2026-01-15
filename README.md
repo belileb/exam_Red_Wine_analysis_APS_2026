@@ -14,8 +14,6 @@ DOI: https://doi.org/10.24432/C56S3T
 
 ---
 
-Statistical analysis of red wine quality using exploratory data analysis, hypothesis testing and regression modeling.
-
 Exploratory data Analysis  
 Estimation of the unconditional and conditional probabilities  
 Estimation of the parameters of distributions of single variables  
