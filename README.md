@@ -14,15 +14,15 @@ DOI: https://doi.org/10.24432/C56S3T
 
 ---
 
-Exploratory data Analysis  
+Exploratory Data Analysis  
 Estimation of the unconditional and conditional probabilities  
 Estimation of the parameters of distributions of single variables  
 Estimation of the parameters of the joint distributions: covariance and correlation coefficient  
 Estimation of PDF based on histogram  
 Nonparametric hypothesis testing of distributions using Kolmogorov-Smirnov and Chi-squared test  
-Estimation of confidence intervals of certain parameters  
+Estimation of confidence intervals of main parameters  
 Parametric hypothesis testing: Two-sample t-test and Correlation significance (p-value) test  
-Regression analysis: linear, multiple and polynomial regression modeling implemented using scikit-learn and statsmodels.formula  
+Linear, Multiple and Polynomial regression modeling via scikit-learn and statsmodels.formula  
 Residual diagnostics  
 
 ---
